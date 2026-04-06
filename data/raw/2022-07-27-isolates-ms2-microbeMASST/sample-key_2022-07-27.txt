@@ -1,0 +1,17 @@
+filename	description
+bkgrnd.mzXML	marine broth medium control
+Blank-1-MS2.mzXML	Solvent blank injection
+Blank-2-MS2.mzXML	Solvent blank injection
+Blank-3-MS2.mzXML	Solvent blank injection
+Blank-4-MS2.mzXML	Solvent blank injection
+isolate-1.mzXML	1A01
+isolate-2.mzXML	6D03
+isolate-3.mzXML	B2R04
+isolate-4.mzXML	B2R08
+isolate-5.mzXML	B2R09
+isolate-6.mzXML	C2M19
+isolate-7.mzXML	C2R07_2
+isolate-8.mzXML	C3M06
+isolate-9.mzXML	D3M06
+isolate-10.mzXML	D3M17
+isolate-11.mzXML	G1M02
